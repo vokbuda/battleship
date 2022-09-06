@@ -26,6 +26,6 @@ Si può estendere questo gioco aggiungendo più giocatori(questo in futuro potre
 ## Contributing
 Le richieste di pull sono benvenute. In caso di modifiche importanti, aprire prima un problema per discutere di ciò che si desidera modificare.
 
-Per favore assicurati di fare import dei test in modo appropriato
+Assicurati di fare import dei test in modo appropriato
 ## Authors and aknowledgment
 vokbuda
