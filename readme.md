@@ -28,6 +28,4 @@ Le richieste di pull sono benvenute. In caso di modifiche importanti, aprire pri
 
 Per favore assicurati di fare import dei test in modo appropriato
 ## Authors and aknowledgment
-Dubkov Andrei
-## Licenza
-[MIT](https://choosealicense.com/licenses/mit/)
+vokbuda
